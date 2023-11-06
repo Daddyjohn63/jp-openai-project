@@ -13,3 +13,11 @@ Will need dynamic inputs for,
 - Introduction by
 
 Do we need a summary of what the book is about? and in how many words?
+
+I will need to create additional form fields and state values. req.body will need to be destructured further.
+
+Prompt will need additional dynamic values added.
+
+Top ten travel tips for travelling to melbourne
+
+melbourne travel guide, melbourne tourist traps, melbourne travel tips
