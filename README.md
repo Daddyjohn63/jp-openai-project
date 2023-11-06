@@ -6,6 +6,7 @@ This is the starter repo for the [Next JS & Open AI / GPT: Next-generation Next 
 
 //we need to use next js server side props with auth0 to protect our routes. For a route that needs protecting we can add.
 
+```
 export const getServerSideProps = withPageAuthRequired(() => {
 return {
 props: {
@@ -13,3 +14,4 @@ test: 'this is a test'
 }
 };
 });
+```
